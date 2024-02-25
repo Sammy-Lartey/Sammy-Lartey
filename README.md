@@ -3,7 +3,7 @@
 - 🌱 Currently delving into the world of Machine Learning
 - 👯 Looking to collaborate on Data Analytics Projects
 - 📫 How to reach me: sammylartey39@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/HIM
 
 
 # 💻 Tech Stack:
