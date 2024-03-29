@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
-- 🌱 Currently delving into the world of Machine Learning
-- 👯 Looking to collaborate on Data Analytics Projects
+- 🌱 Currently exploring the world of Data Science and Machine Learning
+- 👀 I’m interested in Data and Business Analytics, Data Engineering and Data Science
+- 👯 I’m looking to collaborate on any development project
 - 📫 How to reach me: sammylartey39@gmail.com
 - 😄 Pronouns: He/HIM
 
