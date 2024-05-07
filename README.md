@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
 - 🌱 Currently exploring the world of Data Science and Machine Learning
-- 👀 Interested in Data Analytics, Data Engineering and Data Science
-- 👯 looking to collaborate on any data related project 
+- 👀 Interested in Data related topics/conversations
+- 👯 looking to collaborate on anything that requires python and sql really
 - 📫 How to reach me: sammylartey39@gmail.com
-- 😄 Pronouns: He/HIM
+- 😄 Pronouns: HIM
 
 
 # 💻 Tech Stack:
