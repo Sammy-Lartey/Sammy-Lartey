@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌱 Currently exploring the world of Data Science and Machine Learning
+- 🌱 Currently exploring the world of Data Science
 - 👀 Interested in Data related topics/conversations
 - 👯 looking to collaborate on anything that requires python and sql really
 - 📫 How to reach me: sammylartey39@gmail.com
