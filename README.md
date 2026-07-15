@@ -39,12 +39,6 @@ I'm a data professional with a background in data analytics and a focus on data 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sammy-Lartey&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-Lartey&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sammy-Lartey&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sammy-Lartey&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 > Building reliable data systems, one pipeline at a time.
