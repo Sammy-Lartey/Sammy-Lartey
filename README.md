@@ -2,7 +2,7 @@
 
 ### Data Engineer
 
-I'm a data professional with a background in data analytics and a focus on data engineering. I enjoy building reliable data pipelines, designing cloud-based data platforms, and transforming raw data into trusted datasets for analytics and decision-making.
+I'm a data professional with a background in data analytics and a focus on data engineering. I build reliable data pipelines, design cloud-based data platforms, and transform raw data into trusted datasets that support analytics and decision-making.
 
 ---
 
