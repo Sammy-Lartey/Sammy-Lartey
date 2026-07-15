@@ -1,10 +1,19 @@
-### Hi there 👋 
+# Hi there, I'm Samuel Lartey 👋
 
-- 🌱 Currently exploring the world of Data Science
-- 👀 Interested in Data related topics/conversations
-- 👯 looking to collaborate on anything that requires python and sql really
-- 📫 How to reach me: sammylartey430@gmail.com
-- 😄 Pronouns: HIM
+### Data Engineer
+
+I'm a data professional with a background in data analytics and a focus on data engineering. I enjoy building reliable data pipelines, designing cloud-based data platforms, and transforming raw data into trusted datasets for analytics and decision-making.
+
+---
+
+## What I'm Up To
+
+- Currently learning Apache Spark and distributed data processing
+- Building cloud-native data engineering solutions on AWS
+- Exploring modern data lakehouse architectures and scalable data pipelines
+- Improving my understanding of data engineering best practices
+
+---
 
 
 # 💻 Tech Stack:
